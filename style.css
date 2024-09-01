@@ -46,6 +46,107 @@
   list-style: none;
 }
 
+@media screen and (max-width: 375px) {
+  .header__list {
+    display: none;
+  }
+
+  .hero__section {
+    flex-direction: column;
+    padding: 20px 10px 80px !important;
+    gap: 20px;
+  }
+
+  .hero__section img,
+  .hero__section--info,
+  .hero__section--info--title {
+    width: 100% !important;
+  }
+
+  .hero__btn img {
+    height: 50%;
+  }
+
+  .section__header {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .about-us__footer {
+    flex-direction: column-reverse;
+    gap: 20px 0 !important;
+  }
+
+  .weareprofi {
+    padding: 0 10px !important;
+  }
+
+  .weareprofi__info--wrapper {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .weareprofi__info--wrapper img {
+    width: 100%;
+  }
+
+  .weareprofi__list {
+    gap: 5px !important;
+  }
+
+  .weareprofi__list--item {
+    padding: 15px !important;
+    font-size: 12px !important;
+  }
+
+  .offer__header {
+    margin-top: 40px;
+    flex-direction: column !important;
+  }
+
+  .section__title {
+    line-height: 100% !important;
+    font-size: 44px !important;
+  }
+
+  .offer {
+    width: 100%;
+  }
+
+  .our-course {
+    height: fit-content;
+  }
+
+  .accordion__title {
+    font-size: 21px !important;
+  }
+
+  .our-course__header {
+    margin-top: 50px;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .our-course__list {
+    max-height: fit-content !important;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .footer {
+    flex-direction: column;
+  }
+
+  .footer__contacts {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .footer__contacts img {
+    width: 100%;
+  }
+}
+
 .header__list .header__list--item a {
   text-decoration: none;
   color: rgb(0, 0, 0);
@@ -410,7 +511,6 @@ details:not([open]) summary::before {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
   width: 100%;
   gap: 20px;
 }
@@ -470,4 +570,47 @@ details:not([open]) summary::before {
   font-size: 12px;
   text-decoration: none;
   color: #000;
+}
+
+.suppage__title {
+  font-family: Montserrat;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 100%;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.policy__text {
+  font-family: Montserrat;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.policy__container {
+  font-family: Montserrat;
+  padding: 0 150px 120px;
+}
+
+.policy__list {
+  list-style: decimal;
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.list__item--list {
+  padding-left: 20px;
+}
+
+.list__item--headling {
+  margin-top: 35px;
+  font-family: Montserrat;
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.list__item--text {
+  font-family: Montserrat;
+  font-weight: 400;
+  font-size: 20px;
 }
