@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://domain.com/index.html</loc>
+  <lastmod>2024-08-17T04:58:45+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://domain.com/cookie_policy.html</loc>
+  <lastmod>2024-07-29T15:48:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://domain.com/privacy_policy.html</loc>
+  <lastmod>2024-07-29T15:48:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://domain.com/terms_and_conditions.html</loc>
+  <lastmod>2024-07-29T15:48:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://domain.com/terms_of_service.html</loc>
+  <lastmod>2024-07-29T15:48:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://domain.com/about.html</loc>
+  <lastmod>2024-08-17T04:58:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://domain.com/services.html</loc>
+  <lastmod>2024-08-17T04:58:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://domain.com/contacts.html</loc>
+  <lastmod>2024-08-17T04:58:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://domain.com/thanks_you.html</loc>
+  <lastmod>2024-08-17T04:58:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://domain.com/en/index.html</loc>
+  <lastmod>2024-08-17T04:58:45+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://domain.com/en/cookie_policy.html</loc>
+  <lastmod>2024-07-29T15:48:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://domain.com/en/privacy_policy.html</loc>
+  <lastmod>2024-07-29T15:48:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://domain.com/en/terms_and_conditions.html</loc>
+  <lastmod>2024-07-29T15:48:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://domain.com/en/terms_of_service.html</loc>
+  <lastmod>2024-07-29T15:48:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://domain.com/en/about.html</loc>
+  <lastmod>2024-08-17T04:58:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://domain.com/en/services.html</loc>
+  <lastmod>2024-08-17T04:58:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://domain.com/en/contacts.html</loc>
+  <lastmod>2024-08-17T04:58:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://domain.com/en/thanks_you.html</loc>
+  <lastmod>2024-08-17T04:58:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+
+</urlset>

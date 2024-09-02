@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /thanks_you.html
+Disallow: /en/thanks_you.html
+Disallow: /private/
+Allow: /
+
+Sitemap: https://domain.com/sitemap.xml
